@@ -1,7 +1,7 @@
 package Q1_02_Check_Permutation;
 
 //Given two Strings, write a method to decide if one is a permutation of other
-public class QuestionA {	
+public class SolutionA {
 	public static String sort(String s) {
 		char[] content = s.toCharArray();
 		java.util.Arrays.sort(content);

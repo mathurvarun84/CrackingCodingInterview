@@ -1,7 +1,7 @@
 package Q1_01_Is_Unique;
 
 //Algorithm to determine if a string has all unique characters.
-public class QuestionA {
+public class SolutionA {
 	public static boolean isUniqueChars(String str) {
 		if (str.length() > 256) {
 			return false;

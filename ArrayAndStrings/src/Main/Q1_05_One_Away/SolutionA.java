@@ -1,6 +1,6 @@
 package Q1_05_One_Away;
 
-public class QuestionA {
+public class SolutionA {
 
 	public static boolean oneEditReplace(String s1, String s2) {
 		boolean foundDifference = false;
