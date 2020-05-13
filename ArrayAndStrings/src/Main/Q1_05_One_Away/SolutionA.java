@@ -50,6 +50,16 @@ public class SolutionA {
 		String b = "pale";
 		boolean isOneEdit = oneEditAway(a, b);
 		System.out.println(a + ", " + b + ": " + isOneEdit);
+
+		a = "ple";
+		b = "pale";
+		isOneEdit = oneEditAway(a, b);
+		System.out.println(a + ", " + b + ": " + isOneEdit);
+
+		a = "bale";
+		b = "pale";
+		isOneEdit = oneEditAway(a, b);
+		System.out.println(a + ", " + b + ": " + isOneEdit);
 	}
 
 }
