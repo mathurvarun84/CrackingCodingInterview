@@ -2,57 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="852cb487-5aa7-43f0-b3b4-167d5489d8af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Q1_01_Is_Unique/.idea/Q1_01_Is_Unique.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_01_Is_Unique/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_01_Is_Unique/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_01_Is_Unique/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_01_Is_Unique/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_01_Is_Unique/Q1_01_Is_Unique/QuestionA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_01_Is_Unique/outuput/production/Q1_01_Is_Unique/.idea/Q1_01_Is_Unique.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_01_Is_Unique/outuput/production/Q1_01_Is_Unique/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_01_Is_Unique/outuput/production/Q1_01_Is_Unique/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_01_Is_Unique/outuput/production/Q1_01_Is_Unique/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_01_Is_Unique/outuput/production/Q1_01_Is_Unique/META-INF/Q1_01_Is_Unique.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_01_Is_Unique/outuput/production/Q1_01_Is_Unique/Q1_01_Is_Unique/QuestionA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/.idea/Q1_02_Check_Permutation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/Output/production/Q1_02_Check_Permutation/.idea/Q1_02_Check_Permutation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/Output/production/Q1_02_Check_Permutation/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/Output/production/Q1_02_Check_Permutation/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/Output/production/Q1_02_Check_Permutation/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/Output/production/Q1_02_Check_Permutation/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/Output/production/Q1_02_Check_Permutation/META-INF/Q1_02_Check_Permutation.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/Output/production/Q1_02_Check_Permutation/Q1_02_Check_Permutation/QuestionA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/Output/production/Q1_02_Check_Permutation/Q1_02_Check_Permutation/QuestionB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/Q1_02_Check_Permutation/QuestionA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_02_Check_Permutation/Q1_02_Check_Permutation/QuestionB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_03_URLify/Question.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_04_Palindrome_Permutation/Common.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_04_Palindrome_Permutation/QuestionA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_04_Palindrome_Permutation/QuestionB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_04_Palindrome_Permutation/QuestionC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_04_Palindrome_Permutation/Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_05_One_Away/QuestionA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_05_One_Away/QuestionB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Q1_05_One_Away/Tester.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_01_Is_Unique/QuestionA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_02_Check_Permutation/QuestionA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_02_Check_Permutation/QuestionB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_03_URLify/Question.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_04_Palindrome_Permutation/QuestionA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_04_Palindrome_Permutation/QuestionB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_05_One_Away/QuestionA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_05_One_Away/QuestionB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_05_One_Away/Tester.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -70,26 +32,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.QuestionA (2)">
-    <configuration name="Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1_03_URLify.Question" />
+  <component name="RunManager" selected="Application.Question (1)">
+    <configuration name="Question (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_07_Rotate_Matrix.Question" />
       <module name="Main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q1_03_URLify.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionA (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1_02_Check_Permutation.QuestionA" />
-      <module name="Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q1_02_Check_Permutation.*" />
+          <option name="PATTERN" value="Q1_07_Rotate_Matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +59,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuestionA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1_01_Is_Unique.QuestionA" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_06_String_Compression.Solution" />
       <module name="Main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q1_01_Is_Unique.*" />
+          <option name="PATTERN" value="Q1_06_String_Compression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_05_One_Away.SolutionA" />
+      <module name="Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q1_05_One_Away.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_05_One_Away.SolutionB" />
+      <module name="Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q1_05_One_Away.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,10 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.SolutionA" />
+        <item itemvalue="Application.SolutionB" />
         <item itemvalue="Application.QuestionA (2)" />
-        <item itemvalue="Application.Question" />
-        <item itemvalue="Application.QuestionA (1)" />
-        <item itemvalue="Application.QuestionA" />
       </list>
     </recent_temporary>
   </component>
@@ -150,58 +126,66 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589275982767" />
+    <state x="449" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589352489332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1589352489332" />
     <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589281231559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589281231559" />
-    <state x="524" y="121" key="#xdebugger.evaluate" timestamp="1589280336686">
+    <state x="524" y="121" key="#xdebugger.evaluate" timestamp="1589352265645">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="524" y="121" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1589280336686" />
-    <state width="401" height="466" key="DebuggerActiveHint" timestamp="1589283864231">
+    <state x="524" y="121" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1589352265645" />
+    <state width="407" height="466" key="DebuggerActiveHint" timestamp="1589352466693">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="401" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1589283864231" />
+    <state width="407" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1589352466693" />
     <state x="445" y="125" key="FileChooserDialogImpl" timestamp="1589275970961">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="445" y="125" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589275970961" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1589299585669">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1589352596893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589299585669" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1589299585669">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589352596893" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1589352596893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589299585669" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1589299585669">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589352596893" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1589352596893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589299585669" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1589299585669">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589352596893" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1589352596893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589299585669" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1589283924706">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589352596893" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1589352596893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589283924706" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1589283924706">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589352596893" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1589352596893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589283924706" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1589283924706">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589352596893" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1589352596893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589283924706" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1589283924706">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589352596893" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1589352596893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589283924706" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589352596893" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1589275927862">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589275927862" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1589353082927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589353082927" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -210,6 +194,34 @@
           <url>file://$PROJECT_DIR$/Q1_04_Palindrome_Permutation/Common.java</url>
           <line>23</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Q1_05_One_Away/SolutionB.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Q1_05_One_Away/SolutionA.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Q1_06_String_Compression/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Q1_07_Rotate_Matrix/Question.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Q1_06_String_Compression/Solution.java</url>
+          <line>22</line>
+          <properties class="Q1_06_String_Compression.Solution" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

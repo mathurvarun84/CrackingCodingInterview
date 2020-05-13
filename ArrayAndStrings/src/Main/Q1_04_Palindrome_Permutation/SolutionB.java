@@ -1,5 +1,7 @@
 package Q1_04_Palindrome_Permutation;
 
+import CommonMethods.CommonMethods;
+
 //Given a string, write a function to check if its a permutation of palindrome. A palindrome is a word or phrase that is same forwards and backwards,
 //A permutation is a rearrangement of letters. The palindrome does not need to be limited to just dictionary words.
 public class SolutionB {
@@ -8,7 +10,7 @@ public class SolutionB {
 		int countOdd = 0;
 		int[] table = new int[Character.getNumericValue('z') - Character.getNumericValue('a') + 1];
 		for (char c : phrase.toCharArray()) {
-			int x = Common.getCharNumber(c);
+			int x = CommonMethods.getCharNumber(c);
 			if (x != -1) {
 				table[x]++;
 
