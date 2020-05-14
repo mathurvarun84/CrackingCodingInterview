@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="852cb487-5aa7-43f0-b3b4-167d5489d8af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_04_Palindrome_Permutation/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_04_Palindrome_Permutation/Common.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,11 +190,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Q1_04_Palindrome_Permutation/Common.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Q1_05_One_Away/SolutionB.java</url>
           <line>20</line>
