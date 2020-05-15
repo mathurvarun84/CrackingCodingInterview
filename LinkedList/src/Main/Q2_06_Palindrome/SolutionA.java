@@ -3,6 +3,7 @@ package src.Main.Q2_06_Palindrome;
 
 import src.Main.Common.LinkedListNode;
 
+//Write a function to check if a linked list is a palindrome
 public class SolutionA {
 	public static boolean isPalindrome(LinkedListNode head) {
 		LinkedListNode reversed = reverseAndClone(head);
