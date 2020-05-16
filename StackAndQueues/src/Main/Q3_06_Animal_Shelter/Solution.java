@@ -26,7 +26,7 @@ public class Solution {
 		
 		animals.enqueue(new Dog("Dada"));
 		animals.enqueue(new Cat("Milo"));
-		
+
 		while (animals.size() != 0) {
 			System.out.println(animals.dequeueAny().name());	
 		}
